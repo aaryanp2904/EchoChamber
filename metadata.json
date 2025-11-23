@@ -1,0 +1,5 @@
+{
+  "name": "EchoChamber - Reddit Simulator",
+  "description": "A simulated Reddit experience that builds a knowledge graph of your interests and procedurally generates an infinite feed of targeted, provocative content using Gemini AI.",
+  "requestFramePermissions": []
+}
